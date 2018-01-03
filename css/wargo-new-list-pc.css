@@ -47,7 +47,6 @@
 	flex-wrap: wrap;
 }
 .product-list .product-item{
-	width: calc(100% * 1/6);
 	margin-bottom: 15px;
 }
 .product-desc p{

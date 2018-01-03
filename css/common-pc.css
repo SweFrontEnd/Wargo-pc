@@ -94,6 +94,16 @@ img{
 	font-weight: normal;
 	margin-bottom: 5px;
 }
+.col-6-item{
+	width: calc(100% * 1/6);
+}
+.border-item{
+	margin: 0 0 0 -1px;
+	border: 1px solid #000;
+}
+.product-list{
+	flex-wrap: wrap;
+}
 /*=====Slider banner=====*/
 .slider-banner.flexslider{
 	border: none;
