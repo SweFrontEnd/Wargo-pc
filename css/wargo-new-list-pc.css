@@ -43,9 +43,6 @@
     border-bottom: 1px solid #898989;
     margin: -7px 0 0 8px;
 }
-.product-list{
-	flex-wrap: wrap;
-}
 .product-list .product-item{
 	margin-bottom: 15px;
 }

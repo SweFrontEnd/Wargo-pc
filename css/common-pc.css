@@ -94,7 +94,7 @@ img{
 	font-weight: normal;
 	margin-bottom: 5px;
 }
-.col-6-item{
+.col-item{
 	width: calc(100% * 1/6);
 }
 .border-item{
