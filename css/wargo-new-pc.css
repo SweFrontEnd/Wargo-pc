@@ -1,9 +1,11 @@
 /*=====Content=====*/
 .content{
 	flex: 1;
-	padding: 20px 30px;
+	padding: 20px 30px 20px 0;
 }
-
+.side-nav{
+	margin-right: 30px;
+}
 /*=====Slider new arrival=====*/
 .slider-new-wrap{
 	margin-bottom: 30px;
@@ -13,8 +15,12 @@
 }
 .slider-new .slider-new-item a{
 	display: inline-block;
+	width: 100%;
 	position: relative;
 	transition: 0.3s ease;
+}
+.slider-new .slider-new-item a img{
+	width: 100%;
 }
 .product-details{
 	color: #fff;
